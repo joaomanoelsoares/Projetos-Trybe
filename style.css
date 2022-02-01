@@ -1,0 +1,104 @@
+html{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(17, 13, 13);
+    
+}
+
+body{
+    background-color: #fae1dd
+}
+
+#licoes-div{
+    position: absolute;
+    left: 1200px;
+}
+
+#cabecalho{
+    text-align: center;
+    top: 0;
+    left: 680px;
+    position: fixed;
+    padding: 1px;
+    font-size: 35px;
+    font-style:normal;
+
+}
+
+#minha_foto{
+    position: absolute;
+    top: 80px;
+    left: 870px;
+}
+
+#licoes_aprendidas{
+    position: relative;
+    left: 400px;
+    top: 270px;
+  
+}
+
+#licoes_a_aprender{
+    position: relative;
+    left: 100px;
+    top: 0px;
+  
+
+}
+
+#lic_aprendidas{
+    position: relative;
+    top: 275px;
+    left: 120px;
+    font-size: 30px;
+}
+
+#lic_aprender{
+    position: relative;
+    left: 420px;
+    font-size: 30px;
+}
+
+#rodape{
+    position: fixed;
+    bottom: 10px;
+    left: 760px;
+}
+
+#link{
+    position: absolute;
+    top: 170px;
+}
+
+#artigo{
+    position: absolute;
+    top: 450px;
+}
+
+#aside{
+    position: absolute;
+    top: 300px;
+    left: 5px;
+}
+
+#tabela{
+    position: absolute;
+    top: 650px;
+    margin: 10px;
+}
+
+
+
+#artigo-title{
+    position: absolute;
+    top: 380px;
+    left: 3px;
+    font-size: 30px;
+}
+
+#title-aside{
+    font-size: 30px;
+    position: absolute;
+    top: 220px;
+    left: 3px;
+}
+
