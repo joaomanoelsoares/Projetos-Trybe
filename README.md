@@ -1,4 +1,4 @@
-Projeto que me ajudou a entender melhor as funções do JS e como utilizar arrays! 
+**Projeto que me ajudou a entender melhor as funções do JS e como utilizar arrays!** 
 
 Dificuldade: 8/10  
 
